@@ -1,0 +1,1 @@
+{"name":"Local: gia_tri_min_cua_xau","url":"c:\\Users\\ASUS\\Desktop\\SOURCE CODE\\Tham lam\\gia_tri_min_cua_xau.cpp","tests":[{"id":1691143458382,"input":"2\n2\nABCCBC\n2\nAAAB","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\SOURCE CODE\\Tham lam\\gia_tri_min_cua_xau.cpp","group":"local","local":true}
