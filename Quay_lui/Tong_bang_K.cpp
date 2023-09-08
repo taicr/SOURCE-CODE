@@ -22,10 +22,9 @@ void Try(int i,int sum,int pos ){
     }
 }
 int main(){
-    int t;
-    cin>>t;
+
     x[0]=0;
-    while(t--){
+  
         cin >>n >>X; 
         check=0;
         for(int i=1;i<=n;i++){
@@ -35,5 +34,4 @@ int main(){
          Try(1,0,1);
          if(!check) cout<<"-1\n";
          cout<<endl;
-    }
 }

@@ -1,0 +1,7 @@
+*.exe
+*.bin
+*.PROB 
+*.prob
+*.in
+*.out
+**/*.exe

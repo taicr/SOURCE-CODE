@@ -1,1 +1,0 @@
-{"name":"Local: Sinh_Lietke_Xau_KT","url":"c:\\Users\\ASUS\\Desktop\\SOURCE CODE\\Sinh_Lietke_Xau_KT.cpp","tests":[{"id":1690652464102,"input":"D 2","output":"AA\nAB\nAC\nAD\nBB\nBC\nBD\nCC\nCD\nDD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\SOURCE CODE\\Sinh_Lietke_Xau_KT.cpp","group":"local","local":true}

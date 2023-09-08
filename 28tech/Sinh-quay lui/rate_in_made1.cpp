@@ -4,7 +4,7 @@ using namespace std;
 #define run() ios_base :: sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 #define ll long long
 int n,a[100][100],visited[100][100];
-string s;
+string s; 
 int check=false;
 vector<string> v;
 int cnt=0;
