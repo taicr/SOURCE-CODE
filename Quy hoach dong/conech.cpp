@@ -14,11 +14,9 @@ int ech(int i){
     return f[i];
 }
 int main(){
-    int t;
-    cin>>t;
-    while(t--){
+
         int n;
         cin>>n;
         cout<<ech(n)<<endl;
-    }
+    
 }
